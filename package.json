@@ -29,6 +29,6 @@
   "homepage": "https://github.com/zhanglun/gg-linter#readme",
   "dependencies": {
     "chalk": "^1.1.3",
-    "lodash": "^4.17.4"
+    "ora": "^1.2.0"
   }
 }
