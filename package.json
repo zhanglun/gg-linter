@@ -17,6 +17,10 @@
     "eslintrc",
     "generator"
   ],
+  "files": [
+    "templates",
+    "index.js"
+  ],
   "author": "zhanglun@gmail.com",
   "license": "ISC",
   "bugs": {
