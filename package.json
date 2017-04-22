@@ -1,0 +1,30 @@
+{
+  "name": "gg-linter",
+  "version": "1.0.0",
+  "description": "eslintrc generator",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "node index.js"
+  },
+  "bin": {
+    "gg-linter": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zhanglun/gg-linter.git"
+  },
+  "keywords": [
+    "eslintrc",
+    "generator"
+  ],
+  "author": "zhanglun@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhanglun/gg-linter/issues"
+  },
+  "homepage": "https://github.com/zhanglun/gg-linter#readme",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "lodash": "^4.17.4"
+  }
+}
